@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliza02" alt="aliza02" /></a> </p>
 
-- 🔭 I’m currently working at **AKB Inc**
+- 🔭 I’m currently working at **Evencir** as **Mobile Application Developer**
 
 - 🌱 I’m currently diving deep to **Flutter Framework**
 
